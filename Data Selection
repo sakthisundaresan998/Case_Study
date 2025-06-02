@@ -1,0 +1,75 @@
+--1. Display customer list by first name in descending order.
+
+SELECT * 
+FROM customers
+ORDER BY first_name DESC;
+
+--2. Display the first name, last name, and city of the customers, sorting by city first and then by the first name.
+
+SELECT first_name, last_name, city 
+FROM customers
+ORDER BY city ASC, first_name ASC;
+
+--3. Return the top three most expensive products.
+
+SELECT * 
+FROM products
+ORDER BY list_price DESC;
+
+--4. Find the products whose list price is greater than 300 and model year is 2018.
+
+SELECT * 
+FROM products
+WHERE list_price > 300 AND model_year = 2018;
+
+--5. Find products whose list price is greater than 3,000 or model year is 2018.
+
+SELECT * 
+FROM products
+WHERE list_price > 3000 OR model_year = 2018;
+
+--6. Find the products whose list prices are between 1,899 and 1,999.99.
+
+SELECT * 
+FROM products
+WHERE list_price BETWEEN 1899 AND 1999.99;
+
+--7. Use the IN operator to find products whose list price is 299.99, 466.99, or 489.99.
+
+SELECT * 
+FROM products
+WHERE list_price IN (299.99, 466.99, 489.99);
+
+--8. Find the customers where the first character in the last name is in the range A through C.
+
+SELECT * 
+FROM customers
+WHERE last_name BETWEEN 'A' AND 'C';
+
+--9. Use the NOT LIKE operator to find customers where the first character in the first name is not the letter A.
+
+SELECT * 
+FROM customers
+WHERE first_name NOT LIKE 'A%';
+
+--10. Return the number of customers by state and city, grouped by state and city.
+
+SELECT state, city, COUNT(*) AS customer_count
+FROM customers
+GROUP BY state, city;
+
+--11. Return the number of orders placed by each customer, grouped by customer id and year.
+
+SELECT customer_id, YEAR(order_date) AS order_year, COUNT(*) AS order_count
+FROM orders
+GROUP BY customer_id, order_date;
+
+--12. Find the maximum and minimum list prices grouped by category id, and filter out the categories where the maximum list price is greater than 4,000 or the minimum list price is less than 500.
+
+SELECT category_id, 
+       MAX(list_price) AS max_price, 
+       MIN(list_price) AS min_price
+FROM products
+GROUP BY category_id
+HAVING MAX(list_price) > 4000 OR MIN(list_price) < 500;
+
