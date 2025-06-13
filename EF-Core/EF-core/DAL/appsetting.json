@@ -1,6 +1,0 @@
-{
-    "ConnectionStrings": {
-        "EventDbcon": "server=SAKTHI\\SQLEXPRESS;Database=EventDb;Trusted_Connection=True;TrustServerCertificate=true;"
-    }
-
-}
