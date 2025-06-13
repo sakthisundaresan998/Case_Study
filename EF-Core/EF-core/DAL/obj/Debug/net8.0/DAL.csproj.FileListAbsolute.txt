@@ -1,0 +1,14 @@
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\EF-core\DAL\obj\Debug\net8.0\ref\DAL.dll
