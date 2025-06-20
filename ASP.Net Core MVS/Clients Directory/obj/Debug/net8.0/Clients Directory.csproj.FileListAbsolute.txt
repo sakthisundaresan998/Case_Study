@@ -1,0 +1,31 @@
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\bin\Debug\net8.0\appsettings.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\bin\Debug\net8.0\Clients Directory.staticwebassets.endpoints.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\bin\Debug\net8.0\Clients Directory.exe
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\bin\Debug\net8.0\Clients Directory.deps.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\bin\Debug\net8.0\Clients Directory.runtimeconfig.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\bin\Debug\net8.0\Clients Directory.dll
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\bin\Debug\net8.0\Clients Directory.pdb
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\Clients Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\Clients Directory.AssemblyInfoInputs.cache
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\Clients Directory.AssemblyInfo.cs
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\Clients Directory.csproj.CoreCompileInputs.cache
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\Clients Directory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\Clients Directory.RazorAssemblyInfo.cache
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\Clients Directory.RazorAssemblyInfo.cs
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\scopedcss\bundle\Clients Directory.styles.css
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\staticwebassets\msbuild.Clients Directory.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\staticwebassets\msbuild.Clients Directory.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\staticwebassets\msbuild.build.Clients Directory.props
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Clients Directory.props
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Clients Directory.props
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\Clients Directory.dll
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\refint\Clients Directory.dll
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\Clients Directory.pdb
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\Clients Directory.genruntimeconfig.cache
+C:\Users\sakth\OneDrive\Desktop\Hexaware\Application\Clients Directory\obj\Debug\net8.0\ref\Clients Directory.dll
