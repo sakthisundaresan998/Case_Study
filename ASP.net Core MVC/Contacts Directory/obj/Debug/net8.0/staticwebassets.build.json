@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2bRmD99cHLITPza7XME+RUfb1tW2F5VqFPeJnT1W2PQ=",
+  "Source": "ContactsDirectory",
+  "BasePath": "_content/ContactsDirectory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
